@@ -1,0 +1,15 @@
+# system files
+.DS_Store
+.Rhistory
+
+# images
+*.png
+*.svg
+*.pdf
+*.tiff
+
+# knitted R markdown files
+*.html
+
+# folders with archived or test files
+z_*/
