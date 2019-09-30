@@ -1,6 +1,7 @@
 # coding_resources
 
-A list of resources that I have found helpful for learning to code. It is largely geared towards R at the moment due to my usage.
+A list of resources that I have found helpful for learning to code.  
+It is largely geared towards R at the moment due to my usage.
 
 ---
 
@@ -44,7 +45,7 @@ Curated lists of courses (online and in person) can be found here:
 
 ### Markdown
 
-Text writing/editing designed to be flexible and adopted by many platforms (eg GitHub), convertible, and easily readable. More flexible than Word, simpler to learn than HTML or LaTeX.
+Text writing/editing designed to be flexible and adopted by many platforms (eg GitHub), convertible, and easily readable. More flexible than Word, simpler to learn than HTML or LaTeX. Useful for annotating code, as code can be inserted within markdown documents (eg "R markdown"/Rmd type of markdown documents). GitHub renders .md files but not .Rmd files. 
 
 * Markdown reference https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * GitHub flavor markdown https://help.github.com/en/articles/basic-writing-and-formatting-syntax 
@@ -55,7 +56,9 @@ Text writing/editing designed to be flexible and adopted by many platforms (eg G
 
 ### GitHub
 
-I'd recommend working through something on command line like in Blischak's paper to start. For most applications however, I'd use GitHub Desktop, a much nicer interface than command line.
+GitHub is useful for many things, for version control, for understanding what you've changed in your code, and for annotating why you made certain changes to certain code. You needn't use it to collaborate for it to be useful. Git is the language that allows tracking of changes to files within a repository (folder), and GitHub is the most popular site using Git for syncing changes, sharing code and collaborating with others. 
+
+The language of Git is very weird at first and takes time to get used to. I'd recommend working through the Git commends via command line like in Blischak's paper to start. For most applications however, I'd use GitHub Desktop, a much nicer interface than command line.
 
 * Blischak 2016: A Quick Introduction to Version Control with Git and GitHub https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
 * GitHub Desktop https://desktop.github.com/ & https://help.github.com/en/desktop/getting-started-with-github-desktop
