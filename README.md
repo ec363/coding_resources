@@ -60,9 +60,15 @@ GitHub is useful for many things, for version control, for understanding what yo
 
 The language of Git is very weird at first and takes time to get used to. I'd recommend working through the Git commends via command line like in Blischak's paper to start. For most applications however, I'd use GitHub Desktop, a much nicer interface than command line.
 
-* Blischak 2016: A Quick Introduction to Version Control with Git and GitHub https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
-* GitHub Desktop https://desktop.github.com/ & https://help.github.com/en/desktop/getting-started-with-github-desktop
-
+* Start here:
+  * Blischak 2016: A Quick Introduction to Version Control with Git and GitHub https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
+  * GitHub Desktop https://desktop.github.com/ & https://help.github.com/en/desktop/getting-started-with-github-desktop
+* Tutorials:
+  * GitHub Getting Started Guide https://help.github.com/en/categories/getting-started-with-github
+  * GitHub Guides https://guides.github.com/
+  * Git and GitHub learning resources https://help.github.com/en/articles/git-and-github-learning-resources
+  * Perez-Riverol, 2016: Ten Simple Rules for Taking Advantage of Git and GitHub (__see Table 2 for list of tutorials__) https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
+  
 ---
 
 ### Troubleshooting 
