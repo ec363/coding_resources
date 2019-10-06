@@ -58,7 +58,7 @@ Text writing/editing designed to be flexible and adopted by many platforms (eg G
 
 GitHub is useful for many things, for version control, for understanding what you've changed in your code, and for annotating why you made certain changes to certain code. You needn't use it to collaborate for it to be useful. Git is the language that allows tracking of changes to files within a repository (folder), and GitHub is the most popular site using Git for syncing changes, sharing code and collaborating with others. 
 
-The language of Git is very weird at first and takes time to get used to. I'd recommend working through the Git commends via command line like in Blischak's paper to start. For most applications however, I'd use GitHub Desktop, a much nicer interface than command line.
+The language of Git is very weird at first and takes time to get used to. I'd recommend working through the Git commands via command line like in Blischak's paper to start. For most applications however, I'd use GitHub Desktop, a much nicer interface than command line.
 
 * Start here:
   * Blischak 2016: A Quick Introduction to Version Control with Git and GitHub https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668
