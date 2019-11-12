@@ -92,6 +92,11 @@ The language of Git is very weird at first and takes time to get used to. I'd re
 
 Related resources.
 
+### How to learn to code
+
+* 'The ten commandments for learning how to code' by Atma Ivancevic
+https://www.nature.com/articles/d41586-019-00653-5
+
 ### Organising computational biology projects
 
 * Noble, 2009: A Quick Guide to Organizing Computational Biology Projects https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
