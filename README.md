@@ -32,6 +32,10 @@ It is largely geared towards R at the moment due to my usage.
   * ggplot2 cheat sheet https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf & functions https://ggplot2.tidyverse.org/reference/ & cookbook http://www.cookbook-r.com/Graphs/
   * other cheat sheets https://rstudio.com/resources/cheatsheets/ 
 
+* __Books__
+  * R Cookbook, by J. Long and Paul Teetor https://rc2e.com/
+  * R for Data Science, by Garrett Grolemund and Hadley Wickham https://r4ds.had.co.nz/
+
 ---
 
 ### Matlab, Python and other languages
