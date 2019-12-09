@@ -1,7 +1,6 @@
 # coding_resources
 
-A list of resources that I have found helpful for learning to code.  
-It is largely geared towards R at the moment due to my usage.
+A list of resources that I have found helpful for learning to code, centred around the R language, but including other important tools such as GitHub for version control and Markdown for text editing in coding-friendly formats.  
 
 ---
 
@@ -38,7 +37,7 @@ It is largely geared towards R at the moment due to my usage.
 
 ---
 
-### Matlab, Python and other languages
+### Other programming languages
 
 Curated lists of courses (online and in person) can be found here:
 
@@ -49,7 +48,7 @@ Curated lists of courses (online and in person) can be found here:
 
 ### Markdown
 
-Text writing/editing designed to be flexible and adopted by many platforms (eg GitHub), convertible, and easily readable. More flexible than Word, simpler to learn than HTML or LaTeX. Useful for annotating code, as code can be inserted within markdown documents (eg "R markdown"/Rmd type of markdown documents). GitHub renders .md files but not .Rmd files. 
+Markdown is a way of writing formatted files in plain text, essentially. Like HTML but easier. You've probably come across very similar 'lightweight' text editing methods before, like in other apps that let you **bold** text written between *s or put text in _italics_ when wrapped with _s. Markdown was designed to be unobtrusive (readable) and convertible into other file types. More flexible than Word, simpler to learn than HTML or LaTeX. It is useful for annotating code, as code can be inserted within markdown documents (eg "R markdown"/Rmd type of markdown documents). It has been adopted by many platforms including GitHub (note GitHub renders .md files but not .Rmd files). This file is written in Markdown: on the GitHub page, click on 'README.md', then 'Raw' to see it in plain text, as it was written.
 
 * Markdown reference https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * GitHub flavor markdown https://help.github.com/en/articles/basic-writing-and-formatting-syntax 
