@@ -93,17 +93,18 @@ The language of Git is very weird at first and takes time to get used to. I'd re
 
 ---
 
-Related resources.
+**Articles and Resources on Related Topics**
 
 ### How to learn to code
 
 * 'The ten commandments for learning how to code' by Atma Ivancevic
 https://www.nature.com/articles/d41586-019-00653-5
 
-### Organising computational biology projects
+### How to manage computational biology projects
 
 * Noble, 2009: A Quick Guide to Organizing Computational Biology Projects https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
-* NiceR code: https://nicercode.github.io/blog/2013-04-05-projects/
+* NiceR code, 2013: Designing Projects https://nicercode.github.io/blog/2013-04-05-projects/
+* Wilson, 2014: Best Practices for Scientific Computing https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 
 ### Data visualisation
 
