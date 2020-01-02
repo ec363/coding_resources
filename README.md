@@ -103,6 +103,7 @@ https://www.nature.com/articles/d41586-019-00653-5
 ### How to manage computational biology projects
 
 * Noble, 2009: A Quick Guide to Organizing Computational Biology Projects https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
+* Boettiger, 2012: Research Workflow https://www.carlboettiger.info/2012/05/06/research-workflow.html
 * NiceR code, 2013: Designing Projects https://nicercode.github.io/blog/2013-04-05-projects/
 * Wilson, 2014: Best Practices for Scientific Computing https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
 
