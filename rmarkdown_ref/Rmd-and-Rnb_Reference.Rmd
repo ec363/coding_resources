@@ -1,0 +1,132 @@
+---
+title: "R Markdown/Notebook Reference"
+output: html_notebook
+---
+
+## R Code:
+
+---
+
+### SHORTCUTS
+
+**Insert Chunk** 
+
+*Cmd+Option+I*
+
+**Run Chunk**
+
+*Cmd+Shift+Enter* \  \  \  \  \  \  (Place cursor inside chunk.)
+
+**Preview document**
+
+*Cmd+Shift+K*
+
+---
+
+### HIGHLIGHTED IN-LINE CODE
+
+To get the grey box effect around code in an otherwise discursive paragraph, bracket with single back-apostrophe symbol: \` \`.
+
+eg. To see chunk options in R markdown files, use `knitr::opts_chunk$get()`, or see [here](https://bookdown.org/yihui/rmarkdown/r-code.html)
+
+---
+
+## Useful Punctuation:
+
+---
+
+### LINE BREAK
+
+from [here](https://samboh.blogs.dsv.su.se/2017/03/09/line-break-in-r-markdown-reports-r-notebooks/)
+
+**backslash, space, space, newline** - This gets you an extra line space that more "newlines" do not manage, ie:
+
+* two carriage returns:
+
+_line1_
+
+_line2_
+
+* four carriage returns:
+
+_line1_
+
+
+
+_line2_
+
+* "\\__" where _ represents space:
+  * __newline and indent__: two carriage returns, "\\__", one carriage return
+
+_line1_
+
+\  
+_line2_
+
+* "\\__" where _ represents space:
+  * __double line break__: two carriage returns, "\\__", two carriage returns
+
+_line1_
+
+\  
+
+_line2_
+
+---
+
+### HORIZONTAL LINE
+
+three dashes, "- - -" without breaks
+
+---
+
+### TICK BOXES
+
+Add box as square brackets, with no tick (space), [ ] , or with tick, [x] , **after a bullet point** and **followed by text**!
+
+[ ] _nope_
+
+* [ ] _yep_
+
+_nope:_
+
+* [ ]
+
+_yep:_
+
+* [x] _text here_
+
+Also described [here](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table) for different app.
+
+---
+
+### LINKS
+
+square brackets around name, then standard brackets around link itself
+
+[ R Markdown ] ( link . com )
+
+[R Markdown](https://bookdown.org/yihui/rmarkdown/)
+
+---
+
+## Further resources:
+
+---
+
+[Cheatsheet link](https://github.com/rstudio/cheatsheets/blob/master/rmarkdown-2.0.pdf)
+
+[Cheatsheet direct download](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+
+[R Markdown - the book](https://bookdown.org/yihui/rmarkdown/)
+
+[Chunk options](https://bookdown.org/yihui/rmarkdown/r-code.html)
+
+[Chunk options2](https://yihui.name/knitr/options/#chunk-options)
+
+[Showing/Hiding code ~ options for](https://bookdown.org/yihui/rmarkdown/html-document.html#code-folding)
+
+[R Notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html)
+
+[R Markdown for Presentations](https://bookdown.org/yihui/rmarkdown/presentations.html)
+
