@@ -71,7 +71,8 @@ The language of Git is very weird at first and takes time to get used to. I'd re
   * GitHub Guides https://guides.github.com/
   * Git and GitHub learning resources https://help.github.com/en/articles/git-and-github-learning-resources
   * Perez-Riverol, 2016: Ten Simple Rules for Taking Advantage of Git and GitHub (__see Table 2 for list of tutorials__) https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
-  
+  * Wickham, 2015: Git and GitHub. http://r-pkgs.had.co.nz/git.html
+
 ---
 
 ### Troubleshooting 
