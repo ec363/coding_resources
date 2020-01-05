@@ -1,4 +1,4 @@
-# coding_resources
+# Coding Resources
 
 A list of resources that I have found helpful for learning to code, centred around the R language, but including other important tools such as GitHub for version control and Markdown for text editing in coding-friendly formats.  
 
