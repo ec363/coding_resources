@@ -14,8 +14,16 @@ In short, I'd recommend it.
 
 * __Where to start__
   * [What is R?](https://www.r-project.org/)
-  * Download R (and extra packages) from the [Comprehensive R Archive Network, aka **CRAN**](https://cran.r-project.org/).
-  * Download [**RStudio**](https://rstudio.com/products/rstudio/): a desktop app (also known as an "interactive development environment" or IDE) which makes working with R a lot nicer than not having an IDE (it will help you organise your code, data and plots).
+  * How to use R on your computer:
+  	* either:
+  	* (a) download R & an application that lets you write and test R code easily
+  		* Download R (and extra packages) from the [Comprehensive R Archive Network, aka **CRAN**](https://cran.r-project.org/).
+  		* Download [**RStudio**](https://rstudio.com/products/rstudio/): a desktop app (also known as an "interactive development environment" or IDE) which makes working with R a lot nicer than not having an IDE (it will help you organise your code, data and plots).
+  		* If you have an Anaconda distribution downloaded and you use Jupyter Notebooks for Python coding, it might have RStudio bundled with it or [easily installable](https://anaconda.org/r/rstudio) [from within the bundle](https://docs.anaconda.com/anaconda/navigator/tutorials/create-r-environment/). Jupyter Notebooks [can also be configured to run code written in R](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/). I haven't tried either of these yet, however.
+  	* or:
+  	* (b) use R in the cloud
+  		* [**RStudio Cloud**](https://rstudio.cloud/learn/guide) lets you write, test and save scripts in a browser environment.
+  	* Of all these options, **I would recommend RStudio**.
 
 * __General R tutorials__
   * I learnt the basics of R using a free online course that no longer exists. But plenty of others do. Searching for one that others specifically recommend is a good move to find the highest quality starting points. 
