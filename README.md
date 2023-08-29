@@ -42,6 +42,7 @@ In short, I'd recommend it.
   * [ggplot2 functions](https://ggplot2.tidyverse.org/reference/)
   * [ggplot2 cookbook](http://www.cookbook-r.com/Graphs/)
   * [other cheat sheets](https://rstudio.com/resources/cheatsheets/)
+  * [Collection of Errors, Warnings and Messages in R](https://github.com/rmflight/rerrors)
   * [The R manual](https://cran.r-project.org/doc/manuals/r-release/R-intro.html): literally a dry reference manual.
 
 * __Books__ I'd recommend.
@@ -122,6 +123,7 @@ A number of interesting organisations provide free and informal guidance on codi
 * [Boettiger, 2012: Research Workflow](https://www.carlboettiger.info/2012/05/06/research-workflow.html)
 * [NiceR code, 2013: Designing Projects](https://nicercode.github.io/blog/2013-04-05-projects/)
 * [Wilson, 2014: Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+* The Turing Way: an [online book](https://the-turing-way.netlify.app/) and [github repository](https://github.com/alan-turing-institute/the-turing-way) on Reproducibility in Data Science
 
 ### Data visualisation
 
