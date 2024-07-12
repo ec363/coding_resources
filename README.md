@@ -37,6 +37,11 @@ In short, I'd recommend it.
   * __ggplot2__ is probably the major package in the life of experimentalists with a requirement for data visualisation. Start [here](https://ggplot2.tidyverse.org/) for a good introduction.
   * __R for Biochemists__ is a layperson's course run specifically to familiarise biochemists with R. It deals with the basics of R, data import, plotting (eg. RNAseq log2 plots and enzyme kinetics data) and curve fitting. The link to the course is on the [Biochemistry Society webpage](https://biochemical-society.myshopify.com/collections/frontpage/products/r-for-biochemists-101-starting-30-march-2010) and the accompanying blog is [here](http://rforbiochemists.blogspot.com/).
 
+* __Ready-made R 'recipes' for plotting various types of biological datasets__
+  * __[Joachim Goedhart's Dataviz protocols](https://joachimgoedhart.github.io/DataViz-protocols/)__
+  * [Claus O. Wilke, Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+  * [R graph gallery](https://r-graph-gallery.com/)
+
 * __Reference sheets__
   * ggplot2 Cheatsheet: [pdf download link](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
   * [ggplot2 functions](https://ggplot2.tidyverse.org/reference/)
