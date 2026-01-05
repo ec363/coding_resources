@@ -2,12 +2,6 @@
 .DS_Store
 .Rhistory
 
-# images
-*.png
-*.svg
-*.pdf
-*.tiff
-
 # knitted R markdown files
 *.html
 
